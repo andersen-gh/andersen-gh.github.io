@@ -1,0 +1,1 @@
+import{a,t as e}from"../chunks/disclose-version.CEiDrDA1.js";import"../chunks/legacy.BZTCRGBR.js";var n=e('<div style="text-align: center; position: absolute; top: 50%; left: 50%; transform: translate3d(-50%, -50%, 0);"><h1>andersen.work</h1> <p>coming soon.</p></div>');function i(t){var o=n();a(t,o)}export{i as component};
