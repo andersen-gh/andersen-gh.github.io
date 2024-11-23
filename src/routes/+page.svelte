@@ -1,2 +1,4 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+<div style="text-align: center; position: absolute; top: 50%; left: 50%; transform: translate3d(-50%, -50%, 0);">
+  <h1>andersen.work</h1>
+  <p>coming soon.</p>
+</div>
